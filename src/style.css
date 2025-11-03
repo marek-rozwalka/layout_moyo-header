@@ -1,3 +1,4 @@
+body {
 :root {
   --main-color: #00acdc;
 }
@@ -25,7 +26,6 @@ html {
 }
 
 .header__list {
-  margin: 0;
   padding: 0;
   list-style-type: none;
   display: flex;
@@ -62,5 +62,6 @@ html {
   position: absolute;
   bottom: 0;
   left: 0;
+}
 }
 /*# sourceMappingURL=style.css.map */
